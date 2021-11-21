@@ -1,0 +1,9 @@
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\bin\Debug\Forms_Elements.exe.config
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\bin\Debug\Forms_Elements.exe
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\bin\Debug\Forms_Elements.pdb
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\obj\Debug\Forms_Elements.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\obj\Debug\Forms_Elements.Properties.Resources.resources
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\obj\Debug\Forms_Elements.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\obj\Debug\Forms_Elements.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\obj\Debug\Forms_Elements.exe
+C:\Users\nikit\source\repos\Forms_Elements\Forms_Elements\obj\Debug\Forms_Elements.pdb
